@@ -2,3 +2,4 @@ this is a line from the remote repository.
 this is the original content
 this is line 2
 this is line 3
+new git changes
